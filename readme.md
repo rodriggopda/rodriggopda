@@ -2,7 +2,7 @@
 
 Desenvolvedor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%Andrade-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodriggopda/)](https://www.linkedin.com/in/rodriggopda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Andrade-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodriggopda/)](https://www.linkedin.com/in/rodriggopda/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodriggopda@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriggopda@gmail.com)](mailto:rodriggopda@gmail.com)
 
 Sou entusiasta de tecnologias web e mobile.
