@@ -7,6 +7,6 @@ Desenvolvedor
 
 Sou entusiasta de tecnologias web e mobile.
 
-Acredito que se não há persistência o sucesso não exisite, mas também costumo acreditar que para tudo há um momento certo de acontecer.
+Acredito que se não há persistência o sucesso não existe, mas também costumo acreditar que para tudo há um momento certo de acontecer.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,docker,nodejs,nestjs,js,ts,sqlite,mysql,postgres,prisma,html,css,nextjs,nuxt,tailwind,figma,xd)](https://skillicons.dev)
