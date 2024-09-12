@@ -8,5 +8,3 @@ Desenvolvedor
 Sou entusiasta de tecnologias para a web.
 
 Acredito que onde não há persistência o sucesso jamais existirá. Também costumo acreditar que para tudo há um momento certo de acontecer, por mais árduo que seja a caminhada rumo a um objetivo.
-
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,nodejs,nestjs,js,ts,sqlite,mysql,postgres,prisma,html,css,nextjs,nuxt,tailwind,figma,xd)](https://skillicons.dev)
