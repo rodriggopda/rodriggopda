@@ -5,7 +5,6 @@ Desenvolvedor Web - Full Stack
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Andrade-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodriggopda/)](https://www.linkedin.com/in/rodriggopda/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodriggopda@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriggopda@gmail.com)](mailto:rodriggopda@gmail.com)
 
-Sou entusiasta de tecnologias para a web.
 Acredito que onde não há persistência o sucesso jamais existirá. Também costumo acreditar que para tudo há um momento certo de acontecer, por mais árduo que seja a caminhada rumo a um objetivo.
 
 Falando de minhas stacks e habilidades, hoje meu trabalho é focado 100% em serviçoss para a internet. Usando tecnologias como o bom e velho typescript, grande aliado da linguagem favorita dos webdev, o javascript.
